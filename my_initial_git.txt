@@ -1,4 +1,1 @@
 This is my initial text for testing git
-
-
-This is a new line to see if git has been updated.
